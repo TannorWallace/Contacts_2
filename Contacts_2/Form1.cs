@@ -20,6 +20,7 @@ namespace Contacts_2
         private void pictureBox1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Data Connection Secure:\n How Can This One Serve?");
+            //testing connection to GITHUB
         }
     }
 }
